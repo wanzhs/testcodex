@@ -21,6 +21,12 @@ mvn spring-boot:run
 mvn clean verify
 ```
 
+## HTTP file test
+
+You can use the HTTP file in `http/hello.http` with IDE HTTP clients (for example,
+IntelliJ IDEA or VS Code REST Client). Start the app, then execute the requests
+in the file to verify the JSON response.
+
 ## Example
 
 ```
