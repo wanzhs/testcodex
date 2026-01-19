@@ -1,0 +1,7 @@
+### Greeting endpoint
+GET http://localhost:8080/?name=Codex
+Accept: application/json
+
+### Default greeting
+GET http://localhost:8080/
+Accept: application/json
