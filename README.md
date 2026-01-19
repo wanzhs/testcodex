@@ -1,1 +1,2 @@
-this is a repo for openai codex connector
+# testcodex
+这是一个用于测试 OpenAI Codex 的仓库。
